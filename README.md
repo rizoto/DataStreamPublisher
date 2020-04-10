@@ -1,6 +1,6 @@
 # DataStreamPublisher
 
-A simple example how to create a custom publisher using Combine & consuming URLSessionDelegate
+A simple example how to create a custom publisher using Combine & consuming URLSessionDataDelegate
 
 to run this example, register your own demo account on Oanda and enable API
 
